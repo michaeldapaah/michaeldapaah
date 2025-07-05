@@ -36,6 +36,9 @@ I'm a passionate **Junior Software Engineer & Front-End Developer** with over 2 
 
 - **Front-End Development Program – ALX (2024)**
 - **AI Career Essentials – ALX (2024)**
+- **Software Development Graduate Program - Amalitech (2023)**
+- **Impact Africa Youth Leadership Summit - AFRIWIC INT.ORG (2018)**
+- **Strengthening Capacity of Youth Parliamentarians as Catalysts of Political Empowerment - Parliament of Ghana (2019)**
 - **Software Development Training – Orzbek Consults**
 - **Vodafone Ghana Coding Competition – Certificate Holder**
 - **UAV & Technical Training in Wireless and CCTV Installations**
