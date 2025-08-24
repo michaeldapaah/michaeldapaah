@@ -1,8 +1,8 @@
-# Hi there, I'm Michael Teye Yaw Dapaah! 👋
+# Hi there, I'm Michael Teye Yaw Dapaah! 
 
-![Banner Image](https://michaeldapaah.netlify.app/images/cover2.jpg)
+![Banner Image](https://drive.google.com/file/d/1-nkueS1ZCYihhCYZS-xKkiZVsrrfNX2a/view?usp=sharing)
 
-## About Me 🚀
+## About Me 
 
 I'm a passionate **Junior Software Engineer & Front-End Developer** with over 2 years of experience building clean, responsive, and scalable web interfaces using **JavaScript, React, HTML, CSS, and Firebase**. I thrive on solving real-world problems, learning cutting-edge technologies, and collaborating with mission-driven teams.
 
