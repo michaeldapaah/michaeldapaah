@@ -1,6 +1,6 @@
 # Hi there, I'm Michael Teye Yaw Dapaah! 
 
-![Banner Image](https://drive.google.com/file/d/1-nkueS1ZCYihhCYZS-xKkiZVsrrfNX2a/view?usp=sharing)
+![Banner Image](https://michaeldapaah.netlify.app/images/cover2.jpg)
 
 ## About Me 
 
